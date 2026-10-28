@@ -1,0 +1,131 @@
+
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    transition: transform 0.3s ease-in-out;
+}
+
+h1:hover{
+    color: gray;
+    transform: translateX(20px);
+    font-size: 40px;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+figure {
+    color: white;
+}
+
+.hollow {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.3s ease-in-out;
+}
+
+.hollow:hover {
+    transform: translateY(-20px);
+    width: 75vw;
+    height: 300px;
+    border: 50px solid blue;
+}
+
+.hollow-image {
+    height: auto;
+    width: 200px;
+}
+
+.roblox {
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.3s ease-in-out;
+}
+
+.roblox:hover{
+    transform: translateY(-20px);
+    height: 300px;
+    width: 75vw;
+    border: 50px solid gray;
+}
+
+.roblox-image {
+    height: auto;
+    width: 200px;
+}
+
+.brawl {
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.3s ease-in-out;
+}
+
+.brawl:hover {
+    transform: translateY(-20px);
+    width: 75vw;
+    height: 300px;
+    border: 50px solid rgb(25, 193, 78);
+}
+
+.brawl-image {
+    height: auto;
+    width: 200px;
+}
+
+.celeste {
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.3s ease-in-out;
+}
+
+.celeste:hover {
+    transform: translateY(-20px);
+    width: 75vw;
+    height: 300px;
+    border: 50px solid skyblue;
+}
+
+.celeste-image {
+    height: auto;
+    width: 200px;
+}
+
+.street {
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.3s ease-in-out;
+}
+
+.street:hover {
+    transform: translateY(-20px);
+    width: 75vw;
+    height: 300px;
+    border: 50px solid orange;
+}
+
+.street-image {
+    height: auto;
+    width: 200px;
+}
+
+a {
+    color: white;
+
+}
+
+.title {
+    size: 50px;
+}
+
+figcaption:hover {
+    color: gray;
+    font-size: 30px;
+}
