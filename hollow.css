@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(85, 22, 22);
+}
+
+img {
+    transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+    transform: transitionY(-500px);
+}
+
+.hollow-image {
+    width: 100vw;
+    height: auto;
+}
