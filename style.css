@@ -10,7 +10,7 @@ h1 {
 h1:hover{
     color: gray;
     transform: translateX(20px);
-    font-size: 40px;
+    transform: scale(1,2)
 }
 
 h2 {
@@ -140,9 +140,10 @@ a {
     border: 5px ridge white;
     color: white;
     font-size: 20px;
+    text-decoration: none;
 }
 
 .top-screen:hover {
-    font-size: 30px;
-    border: 15px ridge white;
+    border-color: gold;
+    transform: scale(1,2)
 }
