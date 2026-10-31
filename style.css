@@ -138,4 +138,5 @@ a {
     display: flex;
     justify-content: space-evenly;
     border: 5px ridge black;
+    color: white;
 }
