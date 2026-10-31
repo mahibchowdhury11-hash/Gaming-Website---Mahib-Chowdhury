@@ -134,3 +134,8 @@ a {
     font-size: 30px;
 }
 
+.top-screen {
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px ridge black;
+}
