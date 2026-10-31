@@ -147,3 +147,7 @@ a {
     border-color: gold;
     transform: scale(1,2)
 }
+
+.white {
+    color: white;
+}
