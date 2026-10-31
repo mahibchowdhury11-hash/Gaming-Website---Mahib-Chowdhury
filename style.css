@@ -136,7 +136,13 @@ a {
 
 .top-screen {
     display: flex;
-    justify-content: space-evenly;
-    border: 5px ridge black;
+    justify-content: space-around;
+    border: 5px ridge white;
     color: white;
+    font-size: 20px;
+}
+
+.top-screen:hover {
+    font-size: 30px;
+    border: 15px ridge white;
 }
