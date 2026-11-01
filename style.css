@@ -154,21 +154,14 @@ a {
 
 ol {
     background-color: white;
-    transition: transform 0.3s ease-in-out;
 }
-
-ol:hover {
-    background-color: gray;
-    transform: translateY(-5px)
-}
-
 
 li {
-    background-color: white;
+    color: white;
     transition: transform 0.3s ease-in;
 }
 
 li:hover {
-    background-color: gray;
+    color: gray;
     transform: translateY(-5px);
 }
