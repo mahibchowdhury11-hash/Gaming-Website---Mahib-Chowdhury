@@ -178,5 +178,5 @@ li:hover {
 }
 
 .option:hover {
-    transform: translateY(-20px)
+    transform: scale(3,1)
 }
