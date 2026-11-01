@@ -170,6 +170,7 @@ li {
 li:hover {
     color: gray;
     transform: translateY(-5px);
+    transform: scale(1,2)
 }
 
 .option {
