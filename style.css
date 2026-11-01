@@ -148,6 +148,10 @@ a {
     transform: scale(1,2)
 }
 
-.white {
+ol {
+    color: white;
+}
+
+li {
     color: white;
 }
