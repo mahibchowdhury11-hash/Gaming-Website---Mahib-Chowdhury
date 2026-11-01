@@ -23,6 +23,12 @@ h3 {
 
 p {
     color: white;
+    transition: transform 0.3s ease-in-out;
+}
+
+p:hover {
+    color: gray;
+    transform: scale(1,1.5);
 }
 
 figure {
@@ -164,4 +170,12 @@ li {
 li:hover {
     color: gray;
     transform: translateY(-5px);
+}
+
+.option {
+    transition: transform 0.3s ease-in-out
+}
+
+.option:hover {
+    transform: translateY(-20px)
 }
