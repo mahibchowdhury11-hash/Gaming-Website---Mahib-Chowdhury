@@ -177,8 +177,3 @@ li:hover {
     transform: translateY(-5px);
     transform: scale(1,2)
 }
-
-.border {
-    box-shadow: 0 0 15px 5px rgba(79, 172, 254, 0.6);
-}
-
