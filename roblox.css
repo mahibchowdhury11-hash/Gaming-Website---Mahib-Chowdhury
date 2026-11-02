@@ -1,3 +1,12 @@
 .roblox-images {
     width: 100vw;
 }
+
+
+img {
+    transition: transform 0.5s ease-in-out;
+}
+
+img:hover {
+    transform: scale(0.5, 0.5)
+}
