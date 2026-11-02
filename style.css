@@ -22,7 +22,7 @@ h3 {
 }
 
 h3:hover {
-    
+    transform: scale(1,2)
 }
 
 p {
@@ -176,4 +176,3 @@ li:hover {
     transform: translateY(-5px);
     transform: scale(1,2)
 }
-
