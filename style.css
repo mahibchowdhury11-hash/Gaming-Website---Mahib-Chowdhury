@@ -5,6 +5,7 @@ body {
 h1 {
     color: white;
     transition: transform 0.3s ease-in-out;
+    text-align: center;
 }
 
 h1:hover{
@@ -176,3 +177,4 @@ li:hover {
     transform: translateY(-5px);
     transform: scale(1,2)
 }
+
